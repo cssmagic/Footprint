@@ -147,6 +147,13 @@
 
 ### 技术分享
 
+* **2023 · K+Talk 《AI 编程助手会给程序员带来哪些收益和影响（节选）》** <br>
+	https://www.bilibili.com/video/BV1BC4y1U7JZ/
+	
+	[![幻灯片封面](https://github.com/cssmagic/Footprint/assets/1231359/ebb6e4c8-b1e6-4dd1-ba9f-4d8bea52032f)](https://www.bilibili.com/video/BV1BC4y1U7JZ/)
+
+	这是我受邀参与 “K+Talk” 第 57 期直播对话节目的回放剪辑。本期节目探讨程序员在 AI 时代的机遇和挑战。直播全长 90 分钟，本视频节选部分片断，完整内容参见 “中智凯灵” 视频号。鸣谢另两位嘉宾老师：步绍鹏（微软中国高级研发经理）、李明宇（中科院计算所高级工程师），鸣谢主办方：AIDD（AI+软件研发数字峰会）。
+
 * **2023 · VE 开发者社区 《GitHub Copilot 值不值每月十刀》** <br>
 	[第一段](https://www.bilibili.com/video/BV1rF411o7D4/) | [第二段](https://www.bilibili.com/video/BV1Zj411z7Mq/) | [第三段](https://www.bilibili.com/video/BV1qh4y1Q7gC/) | [第四段](https://www.bilibili.com/video/BV1Fc411f79G/)
 	
