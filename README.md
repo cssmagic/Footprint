@@ -107,19 +107,15 @@
 * 所在公司：RJ
 * 方案介绍：[cssmagic/Footprint#14](https://github.com/cssmagic/Footprint/issues/14)
 
-### 2019 · 提升 H5 性能的 WebView 缓存方案（Android + iOS）
-
-* 所在公司：OC
-* 方案介绍：（待更新）
-
-<!--
-
 ### 2020 · 通过 SDK 助力前端项目高效接入 Sentry 和 ARMS
 
 * 所在公司：OC
 * 方案概述：（待更新）
 
--->
+### 2019 · 提升 H5 性能的 WebView 缓存方案（Android + iOS）
+
+* 所在公司：OC
+* 方案介绍：（待更新）
 
 &nbsp;
 
