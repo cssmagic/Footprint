@@ -133,10 +133,17 @@
 
 ### 技术分享
 
+* **2024 · B 站直播 《一次看懂 GPTs：如何使用、如何开发、如何赚钱》** <br>
+	[第一段](https://www.bilibili.com/video/BV1MN4y1H7aR/) | [第二段](https://www.bilibili.com/video/BV1tV411Q7Jd/) | [第三段](https://www.bilibili.com/video/BV1GC4y1k7KK/) | [第四段](https://www.bilibili.com/video/BV1rT4y147y2/)
+	
+	[![幻灯片封面](https://github.com/cssmagic/Footprint/assets/1231359/dff97541-b8a3-490a-a884-936d54ef75a9)](https://www.bilibili.com/video/BV1MN4y1H7aR/)
+
+	这是我的 B 站直播回放剪辑。这是一部关于 GPTs 的完整指南，帮助大家快速玩转 GPTs，抓住新机遇。
+
 * **2023 · K+Talk 《AI 编程助手会给程序员带来哪些收益和影响（节选）》** <br>
 	https://www.bilibili.com/video/BV1BC4y1U7JZ/
 	
-	[![幻灯片封面](https://github.com/cssmagic/Footprint/assets/1231359/ebb6e4c8-b1e6-4dd1-ba9f-4d8bea52032f)](https://www.bilibili.com/video/BV1BC4y1U7JZ/)
+	[![视频封面](https://github.com/cssmagic/Footprint/assets/1231359/ebb6e4c8-b1e6-4dd1-ba9f-4d8bea52032f)](https://www.bilibili.com/video/BV1BC4y1U7JZ/)
 
 	这是我受邀参与 “K+Talk” 第 57 期直播对话节目的回放剪辑。本期节目探讨程序员在 AI 时代的机遇和挑战。直播全长 90 分钟，本视频节选部分片断，完整内容参见 “中智凯灵” 视频号。鸣谢另两位嘉宾老师：步绍鹏（微软中国高级研发经理）、李明宇（中科院计算所高级工程师），鸣谢主办方：AIDD（AI+软件研发数字峰会）。
 
