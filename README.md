@@ -14,6 +14,12 @@
 
 ## 职业履历
 
+### 2024～2026 · 上海 · Aladia（意大利企业 / 全职远程）
+
+职位：前端工程师
+
+Aladia 是一家面向全球的在线教育平台，服务 600+ 名教师与 190,000+ 名学员。我负责社区功能的开发和维护。
+
 ### 2023 · 上海 · 百姓 AI
 
 职位：研发工程师
@@ -123,6 +129,20 @@
 ## 个人作品
 
 ### 出版物
+
+* **2025 · 《AI 辅助编程 Python 实战：基于 GitHub Copilot 和 ChatGPT》** <br>
+	https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming
+
+	[![封面](https://github.com/user-attachments/assets/ae4a8bdd-7367-4989-996f-dfb8b74ba438)](https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming)
+
+	英文原书是 “AI 辅助编程” 领域的第一本著作，广受好评，本人担任中文版译者。这本书帮助读者借助 AI 学习 Python 编程。
+
+* **2024 · 《AI 辅助编程入门：使用 GitHub Copilot 零基础开发 LLM 应用》** <br>
+	https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book
+
+	[![封面](https://github.com/user-attachments/assets/20f6f58c-a4c9-4b2a-ad23-55d53c639903)](https://github.com/cssmagic/AI-Assisted-LLM-Dev-Book)
+
+	面向编程初学者，力求让没有编程经验的读者也能在 AI 编程工具的协助下，轻松点亮编程技能树，把自己心中的创意变为现实！
 
 * **2016 · 《CSS 揭秘》** <br>
 	https://github.com/cssmagic/CSS-Secrets
