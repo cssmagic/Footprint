@@ -1,15 +1,5 @@
 # Footprint · 日拱一卒
 
-***
-
-> ### 背景
->
-> 2022 难得闲暇，决定把自己做过的架构方案、开源项目、技术分享都整理出来！这里不仅会有过去的积累，还会不断添加新的收获。
->
-> © 经验分享 · 日拱一卒 &nbsp; | &nbsp; **Star** = 收藏 &nbsp; | &nbsp; **Watch** = 订阅
-
-***
-
 &nbsp;
 
 ## 职业履历
@@ -109,7 +99,7 @@ Aladia 是一家面向全球的在线教育平台，服务 600+ 名教师与 190
 
 ## 个人作品
 
-### 出版物
+### 图书
 
 * **2025 · 《AI 辅助编程 Python 实战：基于 GitHub Copilot 和 ChatGPT》** <br>
   https://github.com/cssmagic/Learn-AI-Assisted-Python-Programming
